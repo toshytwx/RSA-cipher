@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2017\Projects\RSAEncryptor\RSAEncryptor\bin\Debug\RSAEncryptor.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\RSAEncryptor\RSAEncryptor\bin\Debug\RSAEncryptor.exe
+C:\Users\User\documents\visual studio 2017\Projects\RSAEncryptor\RSAEncryptor\bin\Debug\RSAEncryptor.pdb
+C:\Users\User\documents\visual studio 2017\Projects\RSAEncryptor\RSAEncryptor\obj\Debug\RSAEncryptor.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\RSAEncryptor\RSAEncryptor\obj\Debug\RSAEncryptor.Form1.resources
+C:\Users\User\documents\visual studio 2017\Projects\RSAEncryptor\RSAEncryptor\obj\Debug\RSAEncryptor.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2017\Projects\RSAEncryptor\RSAEncryptor\obj\Debug\RSAEncryptor.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\RSAEncryptor\RSAEncryptor\obj\Debug\RSAEncryptor.exe
+C:\Users\User\documents\visual studio 2017\Projects\RSAEncryptor\RSAEncryptor\obj\Debug\RSAEncryptor.pdb
